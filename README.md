@@ -1,16 +1,15 @@
-## Hi there 👋
+### boas vindas ao meu perfil
 
-<!--
-**murilomazurkievs/murilomazurkievs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Murilo Mazurkievs
 
-Here are some ideas to get you started:
+- Estou estudando no tiradentes matéria pensamento computacional
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você entrar em contato comigo
+
+- murilohenriquemazurk@gmail.com
+
+- mazurkievs.murilo@escola.pr.gov.br
+
+   ![](https://media1.tenor.com/m/ncHwlj4_05gAAAAd/nod-kermit-nod.gif)
